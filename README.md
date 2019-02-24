@@ -1,5 +1,30 @@
 Rails Foundation
 ================
+From: https://github.com/RailsApps/rails-foundation
+
+## Getting the Application
+### Generate
+
+`$ rails new rails-foundation -m https://raw.github.com/RailsApps/rails-composer/master/composer.rb`
+
+
+...
+`cd rails-foundation`
+
+`$ bundle install`
+
+`rails server` -- F&ck
+
+`cd ..
+cd rails-foundation`
+
+`rails server` -- Ok
+
+
+
+
+
+-- cut here --
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
